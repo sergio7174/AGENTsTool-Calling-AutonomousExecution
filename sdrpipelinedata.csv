@@ -1,0 +1,7 @@
+lead_id,company_name,campaign_name,status,emails_sent,replied,meeting_booked,date_contacted
+1,Acme Corp,Q4_Enterprise,Replied,2,1,0,2026-10-01
+2,Beta LLC,Q4_Enterprise,Contacted,3,0,0,2026-10-02
+3,Gamma Inc,SMB_Outbound,Meeting Booked,1,1,1,2026-10-03
+4,Delta Co,SMB_Outbound,Contacted,4,0,0,2026-10-04
+5,Echo Ltd,Q4_Enterprise,Replied,2,1,0,2026-10-05
+6,Zeta Tech,SMB_Outbound,Meeting Booked,2,1,1,2026-10-06
